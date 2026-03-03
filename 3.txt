@@ -1,1 +1,1 @@
-1
+Just make sure that this will be in react, keep it simple
